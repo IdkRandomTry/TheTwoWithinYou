@@ -1,8 +1,8 @@
-The Two Within You is my (SiddBourbaki's) entry for PyWeek #33
+The Two Within You is my (IdkRandomTry's) entry for PyWeek #33
 
-Concept: SiddBourbaki
-Code written by: SiddBourbaki
-Art (if it classifies as art) by: SiddBourbaki
+Concept: IdkRandomtry
+Code written by: IdkRandomTry
+Art (if it classifies as art) by: IdkRandomTRy
 Requirements: pygame 2.0.1
 
 How to Play:
