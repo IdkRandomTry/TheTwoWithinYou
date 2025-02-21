@@ -1,5 +1,7 @@
 The Two Within You is my entry for PyWeek #33
 
+Link to Submission: https://pyweek.org/e/The2WithinYou/
+
 Concept: IdkRandomtry\
 Code written by: IdkRandomTry\
 Art (if it classifies as art) by: IdkRandomTry\
